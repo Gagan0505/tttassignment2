@@ -13,6 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+### Deployment
+This site is deployed at [Profile Page](https://ttt-profilepage.netlify.app/)
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm test`
 
@@ -39,14 +43,18 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![WhatsApp Image 2023-11-21 at 04 58 52_400c8a35](https://github.com/Gagan0505/tttassignment2/assets/93574391/86373e13-17e7-4a92-9ea1-f6d072e6946d)
 
 
+### Overview
+This profile page is created especially for smaller screens. I have created a dummy jason for the user information like the name, views, folloers, following, bio
+and Post. in userdata.json
+I created multiple components and bring them onto the profile page. The first component is navbar which has also a sticky property to it. so while scrolling, navbar will not disappear.
+Then I have created the banner component which contains the banner image and the profile detail component. I have set the position of banner to be absolute while the profile container to be relative and give the required padding and margin to it.
+In profile section I have created a component of IconBox which basically contains an icon and the number corresponding to it. I make use of Material-ui icons here.
+Then the next component is post component in which I have map the posts into the post card component which takes the post value as props.
 
 
 
 
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
