@@ -29,37 +29,20 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Output on Different Screens
+##Iphone 14 Pro Max
+![image](https://github.com/Gagan0505/tttassignment2/assets/93574391/e2500d03-d5ec-4f08-bcf3-0df086aaeb06)
+## Web
+![image](https://github.com/Gagan0505/tttassignment2/assets/93574391/6cfc005f-8a5b-4c4d-889c-8dd5c1c8a33a)
+## Samsung Galaxy M52 (My own Device)
+![WhatsApp Image 2023-11-21 at 04 58 59_cf7354e7](https://github.com/Gagan0505/tttassignment2/assets/93574391/a6772100-7210-470d-9765-fedd4b59aa0a)
+![WhatsApp Image 2023-11-21 at 04 58 52_400c8a35](https://github.com/Gagan0505/tttassignment2/assets/93574391/86373e13-17e7-4a92-9ea1-f6d072e6946d)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
