@@ -1,0 +1,45 @@
+.banner-img{
+    height: 30vh;
+    width: 100%;
+
+}
+.imgDiv{
+    position: absolute;
+}
+.profile-section{
+    width: 60%;
+    display: flex;
+    position: relative;
+    padding-top: 58%;
+    padding-right: 3%;
+}
+.profile-section img{
+    border-radius: 100%;
+    border: 2px solid grey;
+    height: 150px;
+    width: 150px;
+}
+
+.details-sec{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.btn{
+    display: flex;
+    gap: 10px;
+}
+
+.profile-container{
+    padding-left: 10px;
+}
+
+.banner-div{
+    display: flex;
+}
+
+.icon-div{
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}

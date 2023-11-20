@@ -1,0 +1,29 @@
+.post_title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.post_title h3{
+    color: black;
+}
+
+.post-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+}
+.post-footer span{
+    color: blueviolet;
+}
+
+.post-footer p{
+    color: grey;
+    font-weight: 400;
+}
+
+.post-container{
+    padding: 10px;
+}

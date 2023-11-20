@@ -1,0 +1,21 @@
+.tab-btn{
+    border: 1px solid grey;
+    border-bottom: 0 transparent;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 8px 8px 0px 0px;
+    color: blueviolet;
+    font-weight: 500;
+}
+
+.post-container{
+    background-color: white;
+    
+}
+
+.line-bl{
+    height: 2px;
+    width: 100%;
+    background-color: grey;
+}

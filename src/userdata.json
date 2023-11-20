@@ -1,0 +1,37 @@
+{
+    "user": {
+      "name": "Anuj Gosalia",
+      "id": "anujgosalia",
+      "followers": 6482,
+      "following": 245,
+      "bio": "Co-founder & CEO at teribly tiny tales"
+    },
+    "posts": [
+      {
+        "postId": "post1",
+        "title": "A Changing World Order",
+        "content": "The World is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are begginning to sense this, including...",
+        "date": "August 2",
+        "readTime": "5 min",
+        "views": 120
+      },
+      {
+        "postId": "post2",
+        "title": "India v/s Australia",
+        "content": "Think about it - this cricket series was akin to therapy. Laying out childhood trauma up top, working with it slowly and surely over two m...",
+        "date": "January 21",
+        "readTime": "8 min",
+        "views": 98
+      },
+      {
+        "postId": "post3",
+        "title": "Write to Build",
+        "content": "Writing is the first step to create: - stories - products - companies",
+        "date": "November 18",
+        "readTime": "1 min",
+        "views": 228
+      }
+    ]
+}
+
+  
