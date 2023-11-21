@@ -43,3 +43,22 @@
     margin-top: 10px;
     gap: 10px;
 }
+
+@media only screen and (min-width: 768px) {
+    
+    .banner-img{
+        width: 800vw;
+        height: 30vh;
+    }
+
+    .profile-section {
+        width: 100%;
+        padding-top: 13%; 
+        justify-content: space-evenly;
+    }
+
+    .details-sec {
+        margin-left: 15px; 
+        margin-top: 0;
+    }
+}
