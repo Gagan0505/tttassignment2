@@ -26,7 +26,7 @@ export default function Banner(){
         return <div>Loading...</div>
     }
     return (
-        <div>
+        <div className="banner-div">
             <div className="imgDiv">
                 <img className="banner-img" src={bannerImage} alt="bg"/>
             </div>

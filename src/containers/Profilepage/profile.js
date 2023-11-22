@@ -4,7 +4,7 @@ import Banner from "../../components/banner/banner";
 import Posts from "../../components/posts/posts";
 function ProfilePage(){
     return (
-        <div>
+        <div className="profile-page">
             <Navbar/>
             <div>
                 <Banner/>

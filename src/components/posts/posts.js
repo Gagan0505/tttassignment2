@@ -18,9 +18,8 @@ export default function Posts(){
         return <div>Loading...</div>
     }
     return (
-        <div>
+        <div className="post-sec">
             <button className="tab-btn">134 Posts</button>
-            <div className="post-container">
                 {postData.map((post) => (
                     <div key={post.postId}>
                         <PostCard title={post.title} content={post.content} day={post.date} readtime={post.readTime} views={post.views} />
@@ -28,7 +27,6 @@ export default function Posts(){
                     </div>
                 )
                 )}
-            </div>
         </div>
     );
 }
